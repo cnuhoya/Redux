@@ -3,7 +3,7 @@ module.exports = {
 
     output: {
         path: __dirname + '/public/',
-        filename: 'bundle.js'
+        filename: 'app.js'
     },
 
     devServer: {

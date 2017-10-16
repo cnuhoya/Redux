@@ -1,5 +1,5 @@
 {
-  "name": "redux",
+  "name": "redux_hw",
   "version": "1.0.0",
   "description": "공개소프트웨어 실습진행",
   "main": "index.js",
@@ -18,7 +18,9 @@
   "homepage": "https://github.com/cnuhoya/Redux#readme",
   "dependencies": {
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
