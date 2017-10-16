@@ -7,4 +7,8 @@ export function increment() { //카운터 값을 올려준다.
         type: INCREMENT
     };
 }
-
+export function decrement() { //카운터 값을 낮춘다.
+    return {
+        type: DECREMENT
+    };
+}
